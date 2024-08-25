@@ -1,0 +1,5 @@
+export { bicubicInterpolation } from './bicubicInterpolation'
+export { bilinearInterpolation } from './bilinearInterpolation'
+export { lanczosInterpolation } from './lanczosInterpolation'
+export { nearestNeighborInterpolation } from './nearestNeighborInterpolation'
+export { sincInterpolation } from './sincInterpolation'
